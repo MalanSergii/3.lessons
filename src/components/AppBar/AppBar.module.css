@@ -1,0 +1,23 @@
+.title{
+  background-color: rgba(11, 228, 87, 0.62);
+}
+
+.appBar{
+  display: flex;
+  flex-direction: column; 
+  height: 100vh;
+  padding:0 40px;
+}
+
+.navigation{
+  display: block;
+  flex-grow: 1;
+  background-color:green;
+}
+
+.userMenu{
+  background-color: green;
+  padding: 10px;
+  display: block;
+  /* height: 50px; */
+}
